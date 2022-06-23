@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>isaacyclai.github.io/test/posts/examplepost/</loc>
+    <lastmod>2022-06-23T11:04:48+08:00</lastmod>
+  </url><url>
+    <loc>isaacyclai.github.io/test/</loc>
+    <lastmod>2022-06-23T11:04:48+08:00</lastmod>
+  </url><url>
+    <loc>isaacyclai.github.io/test/posts/</loc>
+    <lastmod>2022-06-23T11:04:48+08:00</lastmod>
+  </url><url>
+    <loc>isaacyclai.github.io/test/tags/</loc>
+    <lastmod>2022-06-23T11:04:48+08:00</lastmod>
+  </url><url>
+    <loc>isaacyclai.github.io/test/tags/untagged/</loc>
+    <lastmod>2022-06-23T11:04:48+08:00</lastmod>
+  </url><url>
+    <loc>isaacyclai.github.io/test/blog/</loc>
+  </url><url>
+    <loc>isaacyclai.github.io/test/series/</loc>
+  </url>
+</urlset>
