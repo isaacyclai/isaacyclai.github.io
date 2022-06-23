@@ -1,5 +1,5 @@
 baseurl      = "https://isaacyclai.github.io/"
-title        = "Blog test
+title        = "Blog test"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10

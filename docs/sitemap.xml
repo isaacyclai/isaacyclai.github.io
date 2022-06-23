@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>isaacyclai.github.io/test/posts/examplepost/</loc>
+    <loc>https://isaacyclai.github.io/</loc>
     <lastmod>2022-06-23T11:04:48+08:00</lastmod>
   </url><url>
-    <loc>isaacyclai.github.io/test/</loc>
+    <loc>https://isaacyclai.github.io/posts/examplepost/</loc>
     <lastmod>2022-06-23T11:04:48+08:00</lastmod>
   </url><url>
-    <loc>isaacyclai.github.io/test/posts/</loc>
+    <loc>https://isaacyclai.github.io/posts/</loc>
     <lastmod>2022-06-23T11:04:48+08:00</lastmod>
   </url><url>
-    <loc>isaacyclai.github.io/test/tags/</loc>
+    <loc>https://isaacyclai.github.io/tags/</loc>
     <lastmod>2022-06-23T11:04:48+08:00</lastmod>
   </url><url>
-    <loc>isaacyclai.github.io/test/tags/untagged/</loc>
+    <loc>https://isaacyclai.github.io/tags/untagged/</loc>
     <lastmod>2022-06-23T11:04:48+08:00</lastmod>
   </url><url>
-    <loc>isaacyclai.github.io/test/blog/</loc>
+    <loc>https://isaacyclai.github.io/blog/</loc>
   </url><url>
-    <loc>isaacyclai.github.io/test/series/</loc>
+    <loc>https://isaacyclai.github.io/series/</loc>
   </url>
 </urlset>
