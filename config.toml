@@ -1,4 +1,4 @@
-baseurl      = "isaacyclai.github.io/"
+baseurl      = "https://isaacyclai.github.io/"
 title        = "Blog test
 languageCode = "en-us"
 theme        = "hello-friend-ng"
