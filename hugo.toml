@@ -1,8 +1,0 @@
-baseURL = 'https://isaacyclai.github.io'
-languageCode = 'en-us'
-title = 'Test title'
-theme = 'ananke'
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
