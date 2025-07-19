@@ -1,0 +1,6 @@
+/* Center content */
+.grow {
+    max-width: 75ch;
+    margin: 0 auto;
+    text-align: justify;
+  }

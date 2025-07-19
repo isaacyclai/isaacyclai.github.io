@@ -3,7 +3,7 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "Congo"
+title = "Isaac Lai"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
@@ -13,7 +13,7 @@ title = "Congo"
   # description = "My awesome website"
 
 [params.author]
-  # name = "Your name here"
+  name = "Isaac Lai"
   # image = "img/author.jpg"
   # headline = "I'm only human"
   # bio = "A little bit about you"
