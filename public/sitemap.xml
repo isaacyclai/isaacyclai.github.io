@@ -5,14 +5,7 @@
     
       <url>
             <loc>http://localhost:1313/</loc>
-            <lastmod>2025-07-01T22:36:10+08:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/writing/</loc>
-            <lastmod>2025-07-01T22:36:10+08:00</lastmod>
+            <lastmod>2025-06-30T22:55:03+08:00</lastmod>
           </url>
     
   
@@ -24,7 +17,20 @@
     
   
     
+      <url>
+            <loc>http://localhost:1313/writing/</loc>
+            <lastmod>2025-06-30T22:55:03+08:00</lastmod>
+          </url>
+    
   
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/reads/</loc>
+          </url>
     
   
 </urlset>

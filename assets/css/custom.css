@@ -1,6 +1,19 @@
-/* Center content */
-.grow {
-    max-width: 75ch;
-    margin: 0 auto;
-    text-align: justify;
-  }
+/* Left-align main content */
+article, 
+.prose,
+.max-w-prose,
+main {
+    margin-left: 0 !important;
+    margin-right: auto !important;
+}
+
+/* Left-align article headers */
+.article-header {
+    text-align: left !important;
+}
+
+/* Ensure content container is left-aligned */
+.container {
+    margin-left: 0 !important;
+    margin-right: auto !important;
+}
