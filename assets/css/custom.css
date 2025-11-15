@@ -17,3 +17,10 @@ main {
     margin-left: 0 !important;
     margin-right: auto !important;
 }
+
+/* Or set a specific width */
+.max-w-prose,
+.prose,
+article {
+    max-width: 800px !important; /* Adjust this value */
+}
