@@ -11,13 +11,13 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Reading"
-  pageRef = "reading"
+  name = "Writing"
+  pageRef = "writing"
   weight = 10
 
 [[main]]
-  name = "Writing"
-  pageRef = "writing"
+  name = "Reading"
+  pageRef = "reading"
   weight = 20
 
 [[main]]

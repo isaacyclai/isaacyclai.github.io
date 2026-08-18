@@ -5,20 +5,27 @@
     
       <url>
             <loc>http://localhost:1313/</loc>
-            <lastmod>2025-06-30T22:55:03+08:00</lastmod>
+            <lastmod>2026-08-17T00:00:00+08:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/writing/2025-06-30-ge2025/</loc>
-            <lastmod>2025-06-30T22:55:03+08:00</lastmod>
+            <loc>http://localhost:1313/writing/2026-08-17-a-lesson-in-operationalizing-values/</loc>
+            <lastmod>2026-08-17T00:00:00+08:00</lastmod>
           </url>
     
   
     
       <url>
             <loc>http://localhost:1313/writing/</loc>
+            <lastmod>2026-08-17T00:00:00+08:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/writing/2025-06-30-ge2025/</loc>
             <lastmod>2025-06-30T22:55:03+08:00</lastmod>
           </url>
     

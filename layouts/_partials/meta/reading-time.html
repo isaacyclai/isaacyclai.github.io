@@ -1,0 +1,4 @@
+<span title="{{ i18n "article.reading_time_title" }}">
+  {{- i18n "article.reading_time" (.Params.readingTime | default .ReadingTime) | markdownify | emojify -}}
+</span>
+{{- /* Trim EOF */ -}}
