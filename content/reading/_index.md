@@ -55,7 +55,6 @@ title: "Reading"
 - [200Bn Weights of Responsibility](https://docs.google.com/document/d/1aEdTE-B6CSPPeUWYD-IgNVQVZM25f7MF-u9qn5KJJvo/edit?tab=t.0#heading=h.1dlv7gghyx56) (Felix Hill, October 2024)
 - [How Go Players Disempower Themselves to AI](https://www.lesswrong.com/posts/nR3DkyivzF4ve97oM/how-go-players-disempower-themselves-to-ai) (Ashe Vazquez Nuñez, 2 May 2026)
 - [The five philosophical disagreements underneath every AI argument](https://blog.cosmos-institute.org/p/the-five-philosophical-disagreements) (Alex Chalmers, 8 May 2026)
-- [To Understand AI, Think Like A Dragonfly](https://www.noemamag.com/to-understand-ai-think-like-a-dragonfly/) (Anthea Roberts, 21 May 2026)
 - [What does it mean for AI to be democratic?](https://blog.andymasley.com/p/what-does-it-mean-for-ai-to-be-democratic) (Andy Masley, 21 June 2026)
 
 <hr style="width:35%; margin-left:0; border:0; border-top:1px solid; opacity:0.2;">
